@@ -57,7 +57,7 @@ Example: /path/to/cvs
 At this point you should have now pushed all data from the converted CVS repo into **GitHub**!
 
 ## Docker Hub
-The **Docker** container that is built from this repository is located at `https://cloud.docker.com/u/jwiebalk/repository/docker/jwiebalk/cvs2git`
+The **Docker** container that is built from this repository is located at `https://hub.docker.com/repository/docker/jwiebalk/cvs2git`
 
 --------------------------------------------------------------------------------
 
